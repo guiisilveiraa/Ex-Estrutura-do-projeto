@@ -1,7 +1,5 @@
 # Especificação - Frete
 
-# Especificação - Frete
-
 ### RF-001
 Quando o usuário informar um CEP válido, o sistema deve calcular e exibir o valor do frete em até 800 ms.
 
